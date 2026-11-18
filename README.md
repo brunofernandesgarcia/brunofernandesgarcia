@@ -27,8 +27,8 @@ I work on **3D reconstruction of the solar corona**: magnetic field extrapolatio
 | [Gannon-Storm-May-2024](https://github.com/brunofernandesgarcia/Gannon-Storm-May-2024-Solar-Storms) | Data and code for AR 13663/13664 during the May 2024 solar storms |
 
 ### 📄 Selected publications
-- **Garcia, Bruno Fernandes, et al. “Extreme Temporal Clustering of Solar Flares in AR 13663/13664: Magnetic Topology and Recurrence Time in May 2024”. Advances in Space Research, v. 78, n. 2, julho de 2026, p. 1684–701. DOI.org (Crossref), https://doi.org/10.1016/j.asr.2026.04.125.
-- **Garcia, Bruno Fernandes, e Samuel Bueno Soltau. “Física solar: uma experiência de ensino remoto durante a pandemia”. Research, Society and Development, v. 10, n. 3, março de 2021, p. e49910313495. DOI.org (Crossref), https://doi.org/10.33448/rsd-v10i3.13495.
+- **Garcia, Bruno Fernandes, et al.** “Extreme Temporal Clustering of Solar Flares in AR 13663/13664: Magnetic Topology and Recurrence Time in May 2024”. Advances in Space Research, v. 78, n. 2, julho de 2026, p. 1684–701. DOI.org (Crossref), https://doi.org/10.1016/j.asr.2026.04.125.
+- **Garcia, Bruno Fernandes, e Samuel Bueno Soltau.** “Física solar: uma experiência de ensino remoto durante a pandemia”. Research, Society and Development, v. 10, n. 3, março de 2021, p. e49910313495. DOI.org (Crossref), https://doi.org/10.33448/rsd-v10i3.13495.
 
 ### 📫 Find me
 [Google Scholar]((https://scholar.google.com.br/citations?user=1WRcLkkAAAAJ&hl=pt-BR)) · [ORCID](https://orcid.org/0000-0002-6508-3746) · ✉️ bruno.garcia@inpe.br
